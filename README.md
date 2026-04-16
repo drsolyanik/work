@@ -1,3 +1,8 @@
+`https://mirrors.cloud.tencent.com/grafana/apt/pool/main/g/grafana/`
+
+
+---
+
 ```
 # 1. Удаляем старую версию
 sudo apt remove --purge -y nodejs npm
